@@ -2,9 +2,12 @@ This project is not exactly the Clone of the Tinder App like some of the functio
 # Tinder-Clone
 Implementation of React App with Firebase
 # Setup for React Environment
-npx create-react-app my-app 
-cd my-app 
+npx create-react-app my-app
+
+cd my-app
+
 npm start
+
 # Setup for Firebase Environment
 npm install -g firebase-tools
 
